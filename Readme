@@ -1,0 +1,41 @@
+So the idea for now at least is to create these achievements and display them on a page.  Similar to how steam has them listed when comparing to other’s stats, show a percentage of the class that’s done any of these.
+
+Something like this maybe?
+
+Feel free to add anything you want
+
+Achievement Page:
+
+Navbar-----------------------------------------------------
+
+		Line 1	[Text] Iron Coder : Complete a daily project
+		Line 2	[Image]—————||||||||| 80% [Image]
+		Line 3 	[Text](list of names from the class?)
+-----------------------------------------------------
+
+A page with a generic letter to everyone/instructors just saying thanks for all the fish, basically:
+
+Navbar-----------------------------------------------------
+
+                      Title
+       Thanks for everything! etc with longer text
+-----------------------------------------------------       
+
+A leaderboard page showing some ping-pong scores:
+
+Navbar-----------------------------------------------------
+
+                      Hi-Scores:
+
+-----------------------------------------------------
+
+A page with everyone's name and a place to leave a message if you want to:
+
+Navbar-----------------------------------------------------
+
+Person: 
+Thumbnail:
+Message:
+-----------------------------------------------------
+
+
